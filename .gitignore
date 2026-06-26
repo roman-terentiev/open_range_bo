@@ -1,9 +1,4 @@
 __pycache__
-<<<<<<< HEAD
-.venv
-cit/
-runs/
-=======
 .venv/
 cit/
->>>>>>> 31f109f (added one run example)
+runs/
