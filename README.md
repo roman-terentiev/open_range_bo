@@ -36,8 +36,11 @@ This project should not be considered an exact reproduction of the original stud
 # Data
 
 Provider: https://databento.com/
+
 Dataset: CME Globex MDP 3.0
+
 Schema: ohlcv-1m
+
 
 The raw market data used in this project are not included in this repository.
 
