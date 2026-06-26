@@ -19,19 +19,23 @@ This project should not be considered an exact reproduction of the original stud
 
 1. Clone the repository:
 
-    git clone https://github.com/roman-terentiev/noise_area_mom
+    git clone https://github.com/roman-terentiev/open_range_bo
 
-2. Install the required dependencies:
+2. Get required dependencies in:
 
-    pip install -r requirements.txt
+    runs/.../in/requirements.txt  
 
-3. Run the orchestrator:
+3. Install the required dependencies: 
+
+    pip install -r requirements.txt 
+
+4. Run the orchestrator:
 
     python main.py  
 
-4. Results are stored in:
+5. Results are stored in:
 
-    runs/...
+    runs/.../out/
 
 # Data
 
@@ -40,7 +44,6 @@ Provider: https://databento.com/
 Dataset: CME Globex MDP 3.0
 
 Schema: ohlcv-1m
-
 
 The raw market data used in this project are not included in this repository.
 
